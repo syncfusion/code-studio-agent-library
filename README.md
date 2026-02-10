@@ -75,16 +75,16 @@ For using agents across all your projects:
 
 ### Example Usage
 
-• **rapid-prototyper**: "Create a new dashboard app with data visualization"
-• **ui-designer**: "Design a modern login interface with dark mode support"
-• **ux-researcher**: "Create a user journey map for our onboarding flow"
-• **backend-architect**: "Design a RESTful API for our social sharing feature"
-• **devops-automator**: "Set up CI/CD pipeline with automated deployments"
-• **test-writer**: "Write tests for the authentication module"
-• **api-tester**: "Test our REST API endpoints under heavy load"
-• **performance-benchmarker**: "Profile our application and identify bottlenecks"
-• **tool-evaluator**: "Should we use GraphQL or REST for our new API?"
-• **content-creator**: "Create blog posts and social media content for our product launch"
+- **rapid-prototyper**: "Create a new dashboard app with data visualization"
+- **ui-designer**: "Design a modern login interface with dark mode support"
+- **ux-researcher**: "Create a user journey map for our onboarding flow"
+- **backend-architect**: "Design a RESTful API for our social sharing feature"
+- **devops-automator**: "Set up CI/CD pipeline with automated deployments"
+- **test-writer**: "Write tests for the authentication module"
+- **api-tester**: "Test our REST API endpoints under heavy load"
+- **performance-benchmarker**: "Profile our application and identify bottlenecks"
+- **tool-evaluator**: "Should we use GraphQL or REST for our new API?"
+- **content-creator**: "Create blog posts and social media content for our product launch"
 
 ## 📁 Directory Structure
 
@@ -112,31 +112,25 @@ code-studio-agent-library/
 
 ### 🎨 Design Department (`design/`)
 
-• **[ui-designer](design/ui-desginer.agent.md)** - Create beautiful, functional interfaces that can be implemented quickly within rapid development cycles
-
-• **[ux-researcher](design/ux-researcher.agent.md)** - Bridge the gap between user needs and rapid product development through lean research methodologies and actionable insights
+- **[ui-designer](design/ui-desginer.agent.md)** - Create beautiful, functional interfaces that can be implemented quickly within rapid development cycles
+- **[ux-researcher](design/ux-researcher.agent.md)** - Bridge the gap between user needs and rapid product development through lean research methodologies and actionable insights
 
 ### 🔧 Engineering Department (`engineering/`)
 
-• **[backend-architect](engineering/backend-architect.agent.md)** - Design scalable APIs, databases, and server-side systems with proper security and performance optimization
-
-• **[devops-automator](engineering/devops-automator.agent.md)** - Transform manual deployments into smooth, automated workflows with CI/CD pipelines and infrastructure as code
-
-• **[rapid-prototyper](engineering/rapid-prototyper.agent.md)** - Transform ideas into functional applications at breakneck speed, build MVPs in days not weeks
-
-• **[test-writer](engineering/test-writer.agent.md)** - Write comprehensive tests and maintain test suite integrity through intelligent test execution and repair
+- **[backend-architect](engineering/backend-architect.agent.md)** - Design scalable APIs, databases, and server-side systems with proper security and performance optimization
+- **[devops-automator](engineering/devops-automator.agent.md)** - Transform manual deployments into smooth, automated workflows with CI/CD pipelines and infrastructure as code
+- **[rapid-prototyper](engineering/rapid-prototyper.agent.md)** - Transform ideas into functional applications at breakneck speed, build MVPs in days not weeks
+- **[test-writer](engineering/test-writer.agent.md)** - Write comprehensive tests and maintain test suite integrity through intelligent test execution and repair
 
 ### 📣 Marketing Department (`marketing/`)
 
-• **[content-creator](marketing/content-creator.agent.md)** - Generate cross-platform content from long-form blog posts to engaging video scripts and social media content
+- **[content-creator](marketing/content-creator.agent.md)** - Generate cross-platform content from long-form blog posts to engaging video scripts and social media content
 
 ### 🧪 Testing & Benchmarking (`testing/`)
 
-• **[api-tester](testing/api-tester.agent.md)** - Ensure APIs are battle-tested with comprehensive performance, load, and contract testing
-
-• **[performance-benchmarker](testing/performance-benchmarker.agent.md)** - Turn sluggish applications into lightning-fast experiences through comprehensive performance testing and optimization
-
-• **[tool-evaluator](testing/tool-evaluator.agent.md)** - Cut through marketing hype with rapid tool assessment and clear recommendations for development frameworks and services
+- **[api-tester](testing/api-tester.agent.md)** - Ensure APIs are battle-tested with comprehensive performance, load, and contract testing
+- **[performance-benchmarker](testing/performance-benchmarker.agent.md)** - Turn sluggish applications into lightning-fast experiences through comprehensive performance testing and optimization
+- **[tool-evaluator](testing/tool-evaluator.agent.md)** - Cut through marketing hype with rapid tool assessment and clear recommendations for development frameworks and services
 
 ## 💡 Best Practices
 
@@ -176,10 +170,10 @@ Detailed instructions in Markdown format that define:
 
 ### Key Configuration Properties
 
-• **name**: Unique identifier for the agent (e.g., `ui-designer`)
-• **description**: Short hint shown in chat input area
-• **model**: AI model powering the agent (e.g., `claude-sonnet-4.5`, `gpt-5-mini`)
-• **tools**: Array of capabilities the agent can use:
+- **name**: Unique identifier for the agent (e.g., `ui-designer`)
+- **description**: Short hint shown in chat input area
+- **model**: AI model powering the agent (e.g., `claude-sonnet-4.5`, `gpt-5-mini`)
+- **tools**: Array of capabilities the agent can use:
   - `read`: Read files and directories
   - `edit`: Modify files
   - `search`: Search across workspace
@@ -187,7 +181,7 @@ Detailed instructions in Markdown format that define:
   - `execute`: Run terminal commands
   - `agent`: Launch sub-agents
   - `myserver/*`: Include all tools from an MCP server
-• **handoffs** (optional): Define workflow transitions to other agents
+- **handoffs** (optional): Define workflow transitions to other agents
 
 ### Creating New Agents
 
@@ -243,22 +237,22 @@ This eliminates manual switching and ensures consistent workflows across your te
 ## 🎯 When to Use Each Agent
 
 ### Design
-• **ui-designer** - Creating user interfaces, designing components, improving visual aesthetics
-• **ux-researcher** - Conducting user research, creating journey maps, validating design decisions
+- **ui-designer** - Creating user interfaces, designing components, improving visual aesthetics
+- **ux-researcher** - Conducting user research, creating journey maps, validating design decisions
 
 ### Engineering
-• **backend-architect** - Designing APIs, building databases, architecting scalable backend systems
-• **devops-automator** - Setting up CI/CD, configuring cloud infrastructure, automating deployments
-• **rapid-prototyper** - Starting new projects, building MVPs, creating proof-of-concepts
-• **test-writer** - Writing comprehensive tests, fixing failing tests, improving test coverage
+- **backend-architect** - Designing APIs, building databases, architecting scalable backend systems
+- **devops-automator** - Setting up CI/CD, configuring cloud infrastructure, automating deployments
+- **rapid-prototyper** - Starting new projects, building MVPs, creating proof-of-concepts
+- **test-writer** - Writing comprehensive tests, fixing failing tests, improving test coverage
 
 ### Marketing
-• **content-creator** - Generating blog posts, video scripts, social media content
+- **content-creator** - Generating blog posts, video scripts, social media content
 
 ### Testing
-• **api-tester** - Testing API performance, load testing, contract validation
-• **performance-benchmarker** - Measuring speed, identifying bottlenecks, optimizing performance
-• **tool-evaluator** - Evaluating frameworks, comparing services, making tool recommendations
+- **api-tester** - Testing API performance, load testing, contract validation
+- **performance-benchmarker** - Measuring speed, identifying bottlenecks, optimizing performance
+- **tool-evaluator** - Evaluating frameworks, comparing services, making tool recommendations
 
 ## 🛠️ Customizing Agents
 
@@ -325,11 +319,11 @@ This eliminates manual switching and ensures consistent workflows across your te
 
 Track agent effectiveness through:
 
-• Task completion time
-• User satisfaction
-• Error rates
-• Feature adoption
-• Development velocity
+- Task completion time
+- User satisfaction
+- Error rates
+- Feature adoption
+- Development velocity
 
 ## 🎯 Best Practices for Custom Agents
 
