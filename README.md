@@ -368,7 +368,9 @@ To improve existing agents or suggest new ones:
 
 ## 📝 License
 
-[Add your license information here]
+Copyright (c) Syncfusion Inc. All rights reserved.
+
+Licensed under the [Syncfusion](https://downloads.sfcodestudio.com/eula/v1.0/code_studio_eula.pdf) license.
 
 ## 🔗 Resources
 
