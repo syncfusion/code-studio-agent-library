@@ -36,7 +36,7 @@ For sharing agents with your team via source control:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/YOUR-ORG/code-studio-agent-library.git
+   git clone https://github.com/syncfusion/code-studio-agent-library.git
    ```
 
 2. **Copy agents to your project's `.codestudio/agents/` folder:**
