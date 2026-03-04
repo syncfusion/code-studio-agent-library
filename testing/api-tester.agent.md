@@ -1,6 +1,6 @@
 ---
 name: api-tester
-description: Use this agent for comprehensive API testing including performance testing, load testing, and contract testing. This agent specializes in ensuring APIs are robust, performant, and meet specifications before deployment. Examples:\n\n<example>\nContext: Testing API performance under load
+description: 'Use this agent for comprehensive API testing including performance testing, load testing, and contract testing. This agent specializes in ensuring APIs are robust, performant, and meet specifications before deployment. Examples:\n\n<example>\nContext: Testing API performance under load'
 
 tools: ['execute', 'read', 'edit', 'search', 'web', 'agent']
 ---

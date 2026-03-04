@@ -1,6 +1,6 @@
 ---
 name: performance-benchmarker
-description: Use this agent for comprehensive performance testing, profiling, and optimization recommendations. This agent specializes in measuring speed, identifying bottlenecks, and providing actionable optimization strategies for applications. Examples:\n\n<example>\nContext: Application speed testing
+description: 'Use this agent for comprehensive performance testing, profiling, and optimization recommendations. This agent specializes in measuring speed, identifying bottlenecks, and providing actionable optimization strategies for applications. Examples:\n\n<example>\nContext: Application speed testing'
 
 tools: ['execute', 'read', 'edit', 'search', 'web', 'agent']
 ---
