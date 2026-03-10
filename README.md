@@ -97,6 +97,10 @@ For using agents across all your projects:
 - **[performance-benchmarker](testing/performance-benchmarker.agent.md)** - Turn sluggish applications into lightning-fast experiences through comprehensive performance testing and optimization
 - **[tool-evaluator](testing/tool-evaluator.agent.md)** - Cut through marketing hype with rapid tool assessment and clear recommendations for development frameworks and services
 
+### 📄 Documentation (`documentation/`)
+
+- **[codebase-documenter](documentation/codebase-documenter.agent.md)** - Automatically generate comprehensive documentation for codebases, ensuring clarity and maintainability.
+
 ## 💡 Best Practices
 
 1. **Let agents work together** - Many tasks benefit from multiple agents collaborating
