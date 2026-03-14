@@ -96,7 +96,7 @@ For using agents across all your projects:
 - **[api-tester](testing/api-tester.agent.md)** - Ensure APIs are battle-tested with comprehensive performance, load, and contract testing
 - **[performance-benchmarker](testing/performance-benchmarker.agent.md)** - Turn sluggish applications into lightning-fast experiences through comprehensive performance testing and optimization
 - **[tool-evaluator](testing/tool-evaluator.agent.md)** - Cut through marketing hype with rapid tool assessment and clear recommendations for development frameworks and services
-- **[test-generator](testing/test-generator.agent.md)** - Agent that auto-generates Jest + React Testing Library tests for React/TypeScript code by analyzing the actual files and following your project's style
+- **[test-generator](testing/react/test-generator.agent.md)** - Agent that auto-generates Jest + React Testing Library tests for React/TypeScript code by analyzing the actual files and following your project's style
 
 ### 📄 Documentation (`documentation/`)
 
