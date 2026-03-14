@@ -1,7 +1,7 @@
 ---
 name: test-generator
 description: You are an agent specialized in test case generation.
-tools: ['codestudio/getProjectSetupInfo', 'codestudio/installExtension', 'codestudio/newWorkspace', 'codestudio/openSimpleBrowser', 'codestudio/runCommand', 'codestudio/codestudioAPI', 'codestudio/uiBuilder', 'codestudio/extensions', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'todo']
+tools: ['codestudio', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'todo']
 ---
 
 # AI-Powered Unit & Integration Test Generator for CodeStudio
