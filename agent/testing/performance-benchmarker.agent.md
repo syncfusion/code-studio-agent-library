@@ -195,9 +195,9 @@ Your primary responsibilities:
 ### Key Metrics
 | Metric | Current | Target | Status |
 |--------|---------|--------|--------|
-| LCP | Xs | <2.5s | ❌ |
-| FID | Xms | <100ms | ✅ |
-| CLS | X | <0.1 | ⚠️ |
+| LCP | Xs | <2.5s |  |
+| FID | Xms | <100ms |  |
+| CLS | X | <0.1 |  |
 
 ### Top Bottlenecks
 1. [Issue] - Impact: Xs - Fix: [Solution]

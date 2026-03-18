@@ -120,10 +120,10 @@ CLEAR: "Initial page load: < 2s | Widget update: < 500ms | Export: < 2s"
 - [ ] Alternative options considered?
 
 ```
-✓ React 18 + TypeScript: Mature, well-documented
-✓ Recharts: Purpose-built for dashboards
-✓ Tailwind CSS: Well-integrated with React
-✓ Vite: Fast, modern build tool
+ React 18 + TypeScript: Mature, well-documented
+ Recharts: Purpose-built for dashboards
+ Tailwind CSS: Well-integrated with React
+ Vite: Fast, modern build tool
 ```
 
 ### Timeline
@@ -147,21 +147,21 @@ CLEAR: "Initial page load: < 2s | Widget update: < 500ms | Export: < 2s"
 
 ## Quality Issues Classification
 
-### Critical 🔴
+### Critical 
 - Contradicting requirements
 - Impossible to implement technically
 - Missing acceptance criteria
 - Ambiguous core functionality
 - Security requirements missing
 
-### Warning 🟡
+### Warning 
 - Incomplete feature description
 - Unclear terminology
 - Missing edge cases
 - Performance targets unrealistic
 - Insufficient test requirements
 
-### Info 🔵
+### Info 
 - Style improvements
 - Formatting suggestions
 - Documentation enhancements
@@ -171,7 +171,7 @@ CLEAR: "Initial page load: < 2s | Widget update: < 500ms | Export: < 2s"
 ## Issues Format
 
 ```
-**Severity:** 🔴 Critical | 🟡 Warning | 🔵 Info
+**Severity:**  Critical |  Warning |  Info
 **Type:** Clarity | Completeness | Consistency | Feasibility
 **Location:** Section [X.X] - Feature Name
 **Line:** [line number]
@@ -216,24 +216,24 @@ Why this matters
 [Similar format to critical]
 
 ## Consistency Check
-- ✓/✗ Terminology consistent
-- ✓/✗ Formatting consistent
-- ✓/✗ Structure logical
-- ✓/✗ Voice consistent
+- /✗ Terminology consistent
+- /✗ Formatting consistent
+- /✗ Structure logical
+- /✗ Voice consistent
 
 ## Completeness Check
-- ✓/✗ All features covered
-- ✓/✗ All roles addressed
-- ✓/✗ Test requirements defined
-- ✓/✗ Architecture explained
-- ✓/✗ Tech stack justified
+- /✗ All features covered
+- /✗ All roles addressed
+- /✗ Test requirements defined
+- /✗ Architecture explained
+- /✗ Tech stack justified
 
 ## Feasibility Check
-- ✓/✗ Architecturally sound
-- ✓/✗ Tech stack compatible
-- ✓/✗ Timeline realistic
-- ✓/✗ Resources available
-- ✓/✗ Dependencies clear
+- /✗ Architecturally sound
+- /✗ Tech stack compatible
+- /✗ Timeline realistic
+- /✗ Resources available
+- /✗ Dependencies clear
 
 ## Next Steps
 1. Address critical issues
@@ -247,8 +247,8 @@ Why this matters
 ### Rule: REQUIREMENT-CLARITY
 Every requirement must be testable and measurable.
 ```
-❌ "Support all devices"
-✅ "Support desktop (1024px+), tablet (768-1023px), mobile (< 768px)"
+ "Support all devices"
+ "Support desktop (1024px+), tablet (768-1023px), mobile (< 768px)"
 ```
 
 ### Rule: TERM-CONSISTENCY
@@ -271,21 +271,21 @@ Acceptance Criteria:
 ### Rule: TECH-JUSTIFICATION
 Justify technology choices.
 ```
-❌ "Use React"
-✅ "Use React 18 for component composition, hooks support, and ecosystem maturity"
+ "Use React"
+ "Use React 18 for component composition, hooks support, and ecosystem maturity"
 ```
 
 ### Rule: PERFORMANCE-TARGETS
 All performance requirements are measurable.
 ```
-❌ "Fast page load"
-✅ "Initial load < 2 seconds on 4G network, < 1MB bundle"
+ "Fast page load"
+ "Initial load < 2 seconds on 4G network, < 1MB bundle"
 ```
 
 ## Success Criteria
-- ✓ No critical issues remain
-- ✓ Specification is clear and testable
-- ✓ Terminology consistent throughout
-- ✓ Complete and ready for development
-- ✓ Technical approach validated
-- ✓ Ready for team review/approval
+-  No critical issues remain
+-  Specification is clear and testable
+-  Terminology consistent throughout
+-  Complete and ready for development
+-  Technical approach validated
+-  Ready for team review/approval

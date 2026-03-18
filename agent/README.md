@@ -39,9 +39,9 @@ For sharing agents with your team via source control:
    ```bash
    # Create the directory if it doesn't exist
    mkdir -p YOUR-PROJECT/.codestudio/agents/
-   
+
    # Copy all agent files
-   cp code-studio-library/*/*.agent.md YOUR-PROJECT/.codestudio/agents/
+   cp agent\**\*.agent.md YOUR-PROJECT/.codestudio/agents/
    ```
 
 3. **Agents are automatically detected** by Code Studio - no restart needed!
@@ -104,5 +104,3 @@ For using agents across all your projects:
 2. **Be specific** - Clear task descriptions help agents perform better
 3. **Trust the expertise** - Agents are designed for their specific domains
 4. **Iterate quickly** - Agents support rapid development and iteration
-
-

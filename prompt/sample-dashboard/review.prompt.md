@@ -156,7 +156,7 @@ If NO, list blocking issues that must be fixed before merge.
 - Performance optimized
 
 ## Success Criteria
-- ✓ No critical issues
-- ✓ All high priority issues addressed
-- ✓ Code matches spec requirements
-- ✓ Ready for merge/deployment
+-  No critical issues
+-  All high priority issues addressed
+-  Code matches spec requirements
+-  Ready for merge/deployment

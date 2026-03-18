@@ -265,16 +265,16 @@ Filename format: `{number:02d}_{safe_name}.md`
 ## Quality Checklist
 
 Before completing, ensure:
-- ✅ All abstractions are covered
-- ✅ Every abstraction appears in at least one relationship
-- ✅ All code blocks are under 10 lines
-- ✅ Every code block has an explanation
-- ✅ Mermaid diagrams are present and clear
-- ✅ All chapter cross-references use proper links
-- ✅ Tone is consistently beginner-friendly
-- ✅ Examples include both inputs and outputs
-- ✅ Analogies are used throughout
-- ✅ Navigation is clear (prev/next chapter links)
+-  All abstractions are covered
+-  Every abstraction appears in at least one relationship
+-  All code blocks are under 10 lines
+-  Every code block has an explanation
+-  Mermaid diagrams are present and clear
+-  All chapter cross-references use proper links
+-  Tone is consistently beginner-friendly
+-  Examples include both inputs and outputs
+-  Analogies are used throughout
+-  Navigation is clear (prev/next chapter links)
 
 ## When to Use This Agent
 

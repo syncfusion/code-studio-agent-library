@@ -152,9 +152,9 @@ npm run test:watch
 ```
 
 ## Success Criteria
-- ✓ All acceptance criteria have tests
-- ✓ Test coverage > 80%
-- ✓ All tests pass
-- ✓ Tests run in < 10 seconds
-- ✓ No test warnings
-- ✓ Tests are maintainable and clear
+-  All acceptance criteria have tests
+-  Test coverage > 80%
+-  All tests pass
+-  Tests run in < 10 seconds
+-  No test warnings
+-  Tests are maintainable and clear

@@ -41,7 +41,7 @@ For sharing prompts with your team via source control:
    mkdir -p YOUR-PROJECT/.codestudio/prompts/
    
    # Copy all prompt files
-   cp code-studio-library/custom-prompt/*.prompt.md YOUR-PROJECT/.codestudio/prompts/
+   cp prompt/sample-dashboard/*.prompt.md D:/folder/.codestudio/prompts/
    ```
 
 3. **Prompts are automatically detected** by Code Studio - no restart needed!
