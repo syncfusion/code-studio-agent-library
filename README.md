@@ -13,7 +13,7 @@ This library provides ready-to-use agents and prompts that extend the capabiliti
 
 ## 📁 Repository Structure
 
-### Custom Agents (`/custom-agent`)
+### Custom Agents (`/agents`)
 Pre-configured intelligent agents organized by domain:
 
 - **Design**: UI Designer, UX Researcher
@@ -22,7 +22,7 @@ Pre-configured intelligent agents organized by domain:
 - **Marketing**: Content Creator
 - **Testing**: API Tester, Performance Benchmarker, Tool Evaluator, React Test Generator
 
-### Custom Prompts (`/custom-prompt`)
+### Custom Prompts (`/prompts`)
 Pre-built prompts and workflows for specific use cases:
 
 - Sample Dashboard workflows (compilation, linting, security, testing, reviews)
